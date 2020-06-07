@@ -1,0 +1,17 @@
+1 daffodil nergis 
+10 sunflower ayci egi 
+11 daisy papatya 
+12 coltsfoot oksuruk otu 
+13 dandelion kara hindiba 
+14 cowslip cuha cicegi 
+15 buttercup d g n cicegi 
+16 windflower dag lalesi 
+17 pansy hercai menekse 
+2 snowdrop kardelen 
+3 lillyvalley muge cicegi 
+4 bluebell can cicegi 
+5 crocus cigdem 
+6 iris cigdem 
+7 tigerlily pars zambagi 
+8 tulip lale 
+9 fritilleria ters lale 
